@@ -1,0 +1,2 @@
+# Exclude chroma_db (storage for vector embeddings)
+chroma_db/
