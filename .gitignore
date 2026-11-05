@@ -1,2 +1,9 @@
-# Exclude chroma_db (storage for vector embeddings)
+# Ignore any files which may contain sensitive data
+*.pptx
+*.pdf
+*.xlsx
+*.csv
+# Ignore DS_Store files
+.DS_Store
+# Ignore chroma_db (storage for vector embeddings)
 chroma_db/
