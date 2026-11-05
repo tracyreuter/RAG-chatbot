@@ -2,8 +2,6 @@
 
 This notebook provides a high-level, end-to-end overview of how to build a RAG chatbot. A RAG chatbot connects a large language model (LLM) to data sources like PDFs and websites, allowing the chatbot to give context-aware and accurate answers to frequently-asked questions.
 
-**WARNING:** This is my very first attempt, so please don't judge too harshly! If you learned something new from this notebook, or have suggestions for improvement, I would love to hear from you.
-
 ## Prepare Data
 
 - Scrape text from the UW-Madison DAPIR website.
